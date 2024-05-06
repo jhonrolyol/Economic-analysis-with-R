@@ -41,8 +41,34 @@
   library(xts)
 
 # Create folders from Rstudio ---------------------------------------------
-  dir.create("data")
-  dir.create("figures")
-  dir.create("tables")
+  dir.create("1.slides")
+  dir.create("2.scripts")
+  dir.create("3.raw_data")
+  dir.create("4.processed_data")
+  dir.create("5.results")
+    dir.create("5.results/5.1.tables")
+    dir.create("5.results/5.2.figures")
+  dir.create("6.analysis")
  
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
