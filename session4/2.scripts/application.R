@@ -44,13 +44,15 @@
   dir.create("1.slides")
   dir.create("2.scripts")
   dir.create("3.raw_data")
-  dir.create("4.processed_data")
-  dir.create("5.results")
-    dir.create("5.results/5.1.tables")
-    dir.create("5.results/5.2.figures")
-  dir.create("6.analysis")
+  dir.create("4.documentation")
+  dir.create("5.processed_data")
+  dir.create("6.results")
+    dir.create("6.results/6.1.tables")
+    dir.create("6.results/6.2.figures")
+  dir.create("7.analysis")
  
-  
+# Data import -------------------------------------------------------------
+    
 
 
 
